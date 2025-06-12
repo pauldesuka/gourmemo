@@ -1,1 +1,3 @@
-# EPI-Tamachi-Food-Navi
+# gourmemo
+- グルメのメモ
+- 開発3グループのメモ
